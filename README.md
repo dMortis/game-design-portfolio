@@ -7,13 +7,13 @@ Three Unity projects exploring accessible game loops, visual feedback and hands-
 
 | Project | Design focus | My contribution | Unity |
 | --- | --- | --- | --- |
-| **Storage Auction 3** | Merge → collect → unlock; guided first actions; portrait interface | Game design, gameplay logic, sketches and storyboards that guided the gameplay | 6000.6.3f1 |
+| **Auction Merge** | Merge → collect → unlock; guided first actions; portrait interface | Game design, gameplay logic, sketches and storyboards that guided the gameplay | 6000.6.3f1 |
 | **Glitter Peel!** | Peel → reveal → colour; gesture feedback; guided crafting | Game design, gameplay logic and sketches | 6000.6.7f1 |
 | **4 in a Row** | Clear turn flow; computer opponent; readable board and feedback | Game design, gameplay logic, all graphics and UI/UX for the presented version | 6000.6.3f1 |
 
-## Storage Auction 3
+## Auction Merge
 
-<img src="media/storage-auction.png" alt="Storage Auction 3: portrait merge board with three collection rewards" width="300">
+<img src="media/storage-auction.png" alt="Auction Merge: portrait merge board with three collection rewards" width="300">
 
 **A portrait merge prototype built around a compact reward loop.** Combine matching items, deliver upgraded pieces to a collection, then use a key to unlock the next stage. Hand hints guide the opening interactions; collection cards show progress toward a visible reward.
 
@@ -21,7 +21,7 @@ Three Unity projects exploring accessible game loops, visual feedback and hands-
 
 **My contribution:** game design, gameplay logic, sketches and storyboards that formed the basis for the gameplay.
 
-[Source and design breakdown](https://github.com/dMortis/Storage-Auction-3)
+[Source and design breakdown](https://github.com/dMortis/Auction-Merge)
 
 ## Glitter Peel!
 
